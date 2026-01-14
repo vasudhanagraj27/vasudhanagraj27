@@ -10,10 +10,5 @@ I am a Computer Science graduate student with industry experience building scala
 
 
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Vasudha&icon=0&color=0)](https://visitcount.itsvg.in)
