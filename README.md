@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 I am a Computer Science graduate student with industry experience building scalable software systems and data-driven applications. I have worked with Python, SQL, and cloud-based tools in production environments and have applied machine learning techniques to solve real-world problems. This GitHub profile showcases projects that reflect my approach to problem-solving, system design, and writing clean, reliable code, as I continue to grow as an engineer.
 
 
