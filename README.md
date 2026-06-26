@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Vasudha
+# Hi, I'm Vasudha Siddapura Nagraj
 
 ### AI Engineer Intern at Quantifi | MS Computer Science @ University at Buffalo
 
