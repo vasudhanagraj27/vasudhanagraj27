@@ -1,14 +1,13 @@
 <div align="center">
 
-# Hi, I'm Vasudha Siddapura Nagraj
+# Hi, I'm Vasudha
 
 ### AI Engineer Intern at Quantifi | MS Computer Science @ University at Buffalo
 
 I build applied AI, machine learning, and data systems that turn complex workflows into reliable, measurable software.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vasudha%20Siddapura%20Nagraj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasudha-siddapura-nagraj)
-[![GitHub](https://img.shields.io/badge/GitHub-vasudhanagraj27-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vasudhanagraj27)
-[![Email](https://img.shields.io/badge/Email-vasudhasiddapura%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasudhasiddapura@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasudha-siddapura-nagraj)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasudhasiddapura@gmail.com)
 
 </div>
 
@@ -80,15 +79,6 @@ Developed supervised ML models, feature engineering workflows, automated ETL pip
 
 **Machine Learning / Data Science Internships**<br>
 Built retail demand forecasting models, student performance prediction, clustering workflows, and reproducible analytics notebooks.
-
-## GitHub Activity
-
-<div align="center">
-
-![Vasudha's GitHub stats](https://github-readme-stats.vercel.app/api?username=vasudhanagraj27&show_icons=true&theme=default&hide_border=true&rank_icon=github)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vasudhanagraj27&layout=compact&hide_border=true)
-
-</div>
 
 ## Connect
 
