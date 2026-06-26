@@ -1,13 +1,99 @@
-## Hi there 
-I am a Computer Science graduate student with industry experience building scalable software systems and data-driven applications. I have worked with Python, SQL, and cloud-based tools in production environments and have applied machine learning techniques to solve real-world problems. This GitHub profile showcases projects that reflect my approach to problem-solving, system design, and writing clean, reliable code, as I continue to grow as an engineer.
+<div align="center">
 
+# Hi, I'm Vasudha Siddapura Nagraj
 
+### AI Engineer Intern at Quantifi | MS Computer Science @ University at Buffalo
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+I build applied AI, machine learning, and data systems that turn complex workflows into reliable, measurable software.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vasudha%20Siddapura%20Nagraj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasudha-siddapura-nagraj)
+[![GitHub](https://img.shields.io/badge/GitHub-vasudhanagraj27-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vasudhanagraj27)
+[![Email](https://img.shields.io/badge/Email-vasudhasiddapura%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasudhasiddapura@gmail.com)
 
-
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Vasudha&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## About Me
+
+I am a Computer Science graduate student at the University at Buffalo with 2.7 years of industry experience at Tata Consultancy Services and current AI engineering work at Quantifi. My work spans LLM systems, MCP servers, RAG workflows, ML model development, ETL pipelines, analytics engineering, and production-focused experimentation.
+
+- Building LLM and MCP systems for quantitative finance workflows across 10+ asset classes
+- Experienced with Python, PyTorch, LangChain, ChromaDB, MLflow, Docker, Spark, SQL, and cloud environments
+- Delivered ML and analytics systems across healthcare, e-commerce, finance, and computer vision use cases
+- Recognized for improving pipeline efficiency by 35% through automated ETL and analytics workflows
+
+## Current Focus
+
+```text
+LLM Applications      MCP servers, RAG, prompt engineering, evaluation workflows
+Machine Learning      PyTorch, TensorFlow, XGBoost, LightGBM, Scikit-learn
+Data Engineering      ETL pipelines, PySpark, Hadoop, Dockerized workflows
+Analytics             SQL, Power BI, Tableau, Streamlit, statistical analysis
+Cloud & MLOps         AWS, GCP, Azure, Docker, Kubernetes, MLflow, CI/CD
+```
+
+## Featured Work
+
+| Project | What It Does | Tech |
+|---|---|---|
+| **[QuantAI Platform](https://github.com/vasudhanagraj27/quantai-platform)** | Internal AI enablement platform with document intelligence, prompt workbench, and AI digest workflows | Python, LLMs, RAG |
+| **[RAG-Based Document Intelligence Assistant](https://github.com/vasudhanagraj27/rag-document-intelligence-assistant)** | Source-aware document assistant with chunking, embeddings, vector search, and grounded LLM responses | Python, LangChain, ChromaDB, Streamlit |
+| **Retinal Disease Classification** | CNN model trained on 97,477 OCT images with real-time prediction, confidence scoring, and feature map visualization | Python, PyTorch, Streamlit |
+| **E-Commerce Insights & Predictive Analysis** | Scalable ML pipeline over 26M+ records for purchase prediction, price classification, and customer segmentation | PySpark, Spark MLlib, Hadoop, Python |
+| **LLM Workflow Experiment Tracking** | MLflow-based evaluation system for prompt versions, generated pricing scripts, Docker execution, and ground-truth scoring | MLflow, Docker, Python, LLMs |
+
+## Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</div>
+
+## Experience Snapshot
+
+**AI Engineer Intern, Quantifi Inc.**<br>
+Building production LLM and MCP systems for quantitative finance automation, including Bloomberg screenshot ingestion, Dockerized execution, generated pricing scripts, prompt evaluation, and MLflow tracking.
+
+**Assistant Systems Engineer, Machine Learning, Tata Consultancy Services**<br>
+Developed supervised ML models, feature engineering workflows, automated ETL pipelines, and BI dashboards across enterprise healthcare and e-commerce datasets.
+
+**Machine Learning / Data Science Internships**<br>
+Built retail demand forecasting models, student performance prediction, clustering workflows, and reproducible analytics notebooks.
+
+## GitHub Activity
+
+<div align="center">
+
+![Vasudha's GitHub stats](https://github-readme-stats.vercel.app/api?username=vasudhanagraj27&show_icons=true&theme=default&hide_border=true&rank_icon=github)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vasudhanagraj27&layout=compact&hide_border=true)
+
+</div>
+
+## Connect
+
+I am open to AI engineering, machine learning engineering, data science, and applied LLM opportunities.
+
+- Email: [vasudhasiddapura@gmail.com](mailto:vasudhasiddapura@gmail.com)
+- LinkedIn: [linkedin.com/in/vasudha-siddapura-nagraj](https://www.linkedin.com/in/vasudha-siddapura-nagraj)
+- GitHub: [github.com/vasudhanagraj27](https://github.com/vasudhanagraj27)
